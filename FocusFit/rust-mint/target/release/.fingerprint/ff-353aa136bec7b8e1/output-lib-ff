@@ -1,0 +1,8 @@
+info: syncing channel updates for '1.56.0-x86_64-unknown-linux-gnu'
+info: latest update on 2021-10-21, rust version 1.56.0 (09c42c458 2021-10-18)
+info: downloading component 'cargo'
+info: downloading component 'clippy'
+info: downloading component 'rust-docs'
+info: downloading component 'rust-std'
+info: downloading component 'rustc'
+error: component download failed for rustc-x86_64-unknown-linux-gnu: could not rename downloaded file from '/home/cac/.rustup/downloads/2a5f919e2036496c02ab4707a5eb8bd8a4ce6ea589e01cb39f25d213a26dcdfe.partial' to '/home/cac/.rustup/downloads/2a5f919e2036496c02ab4707a5eb8bd8a4ce6ea589e01cb39f25d213a26dcdfe': No such file or directory (os error 2)

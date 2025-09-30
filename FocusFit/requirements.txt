@@ -1,0 +1,7 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+Pillow>=9.0.0
+fastapi>=0.112.0
+uvicorn[standard]>=0.30.0
+

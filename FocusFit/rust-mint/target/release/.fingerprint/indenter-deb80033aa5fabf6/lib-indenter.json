@@ -1,0 +1,1 @@
+{"rustc":943729520361454143,"features":"[\"default\"]","declared_features":"[\"default\", \"std\"]","target":7417218150735988832,"profile":2040997289075261528,"path":3874534245553553085,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/indenter-deb80033aa5fabf6/dep-lib-indenter","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}

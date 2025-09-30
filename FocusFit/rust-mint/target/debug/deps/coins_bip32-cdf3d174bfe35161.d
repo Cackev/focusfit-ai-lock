@@ -1,0 +1,13 @@
+/home/cac/FocusFit/rust-mint/target/debug/deps/libcoins_bip32-cdf3d174bfe35161.rmeta: /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/lib.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/macros.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/enc.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/path.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/primitives.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/xkeys.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/derived.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/defaults.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/prelude.rs
+
+/home/cac/FocusFit/rust-mint/target/debug/deps/coins_bip32-cdf3d174bfe35161.d: /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/lib.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/macros.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/enc.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/path.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/primitives.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/xkeys.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/derived.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/defaults.rs /home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/prelude.rs
+
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/lib.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/macros.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/enc.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/path.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/primitives.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/xkeys.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/derived.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/defaults.rs:
+/home/cac/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/coins-bip32-0.8.7/src/prelude.rs:
